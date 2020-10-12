@@ -1,0 +1,44 @@
+
+* {
+    font-family: "Myriad Pro", sans-serif;
+}
+
+body {
+    background: none;
+    overflow: hidden;
+    overflow-y: auto;
+    margin: 0px;
+    padding: 0px;
+    background-color: #2b669a;
+}
+
+input {
+    width: 150px;
+}
+
+#topo {
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+    background-color: #444444;
+}
+
+#view {
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+    background-color: #2b669a;
+    color: #c4e3f3;
+}
+
+#subview {
+    height: 40px;
+    padding: 10px;
+    color: #FFFF00;
+}
+
+.winner {
+    display: block;
+    background-color: #f0ad4e;
+    color: #333333;
+}
