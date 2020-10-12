@@ -29,7 +29,7 @@
             <th class="text-center">WINNER</th>
         </thead>
         <tbody id="tbody_slim_player">
-
+            <!--Insere aqui os resultados-->
         </tbody>
     </table>
 </div>
